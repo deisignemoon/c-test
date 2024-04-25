@@ -18,15 +18,15 @@
 			"isDirty" : false,
 			"major" : 3,
 			"minor" : 29,
-			"patch" : 0,
-			"string" : "3.29.0",
+			"patch" : 2,
+			"string" : "3.29.2",
 			"suffix" : ""
 		}
 	},
 	"objects" : 
 	[
 		{
-			"jsonFile" : "codemodel-v2-a9f1c6338bc7a868ff4e.json",
+			"jsonFile" : "codemodel-v2-88848b1f5f30b85d4e9f.json",
 			"kind" : "codemodel",
 			"version" : 
 			{
@@ -39,7 +39,7 @@
 	{
 		"codemodel-v2" : 
 		{
-			"jsonFile" : "codemodel-v2-a9f1c6338bc7a868ff4e.json",
+			"jsonFile" : "codemodel-v2-88848b1f5f30b85d4e9f.json",
 			"kind" : "codemodel",
 			"version" : 
 			{

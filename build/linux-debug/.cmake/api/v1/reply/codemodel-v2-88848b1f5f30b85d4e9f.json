@@ -49,8 +49,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "/home/moe/Projects/c-test/build/linux-debug",
-		"source" : "/home/moe/Projects/c-test"
+		"build" : "/home/designer/Documents/workspace/code/c-test/build/linux-debug",
+		"source" : "/home/designer/Documents/workspace/code/c-test"
 	},
 	"version" : 
 	{

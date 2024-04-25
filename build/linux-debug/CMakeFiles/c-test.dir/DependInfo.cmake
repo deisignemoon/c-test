@@ -8,9 +8,9 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/home/moe/Projects/c-test/add.c" "CMakeFiles/c-test.dir/add.c.o" "gcc" "CMakeFiles/c-test.dir/add.c.o.d"
-  "/home/moe/Projects/c-test/alluse.c" "CMakeFiles/c-test.dir/alluse.c.o" "gcc" "CMakeFiles/c-test.dir/alluse.c.o.d"
-  "/home/moe/Projects/c-test/main.c" "CMakeFiles/c-test.dir/main.c.o" "gcc" "CMakeFiles/c-test.dir/main.c.o.d"
+  "/home/designer/Documents/workspace/code/c-test/add.c" "CMakeFiles/c-test.dir/add.c.o" "gcc" "CMakeFiles/c-test.dir/add.c.o.d"
+  "/home/designer/Documents/workspace/code/c-test/alluse.c" "CMakeFiles/c-test.dir/alluse.c.o" "gcc" "CMakeFiles/c-test.dir/alluse.c.o.d"
+  "/home/designer/Documents/workspace/code/c-test/main.c" "CMakeFiles/c-test.dir/main.c.o" "gcc" "CMakeFiles/c-test.dir/main.c.o.d"
   )
 
 # Targets to which this target links which contain Fortran sources.

@@ -1,1 +1,0 @@
-/usr/bin/cc -g CMakeFiles/alluse.dir/alluse.c.o -o alluse 

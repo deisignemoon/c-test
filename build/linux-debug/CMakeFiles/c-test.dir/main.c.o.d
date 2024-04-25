@@ -1,4 +1,5 @@
-CMakeFiles/c-test.dir/main.c.o: /home/moe/Projects/c-test/main.c \
+CMakeFiles/c-test.dir/main.c.o: \
+ /home/designer/Documents/workspace/code/c-test/main.c \
  /usr/include/stdc-predef.h /usr/include/math.h \
  /usr/include/bits/libc-header-start.h /usr/include/features.h \
  /usr/include/features-time64.h /usr/include/bits/wordsize.h \

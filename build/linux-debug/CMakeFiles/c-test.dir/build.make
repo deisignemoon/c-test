@@ -53,10 +53,10 @@ RM = /usr/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/moe/Projects/c-test
+CMAKE_SOURCE_DIR = /home/designer/Documents/workspace/code/c-test
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/moe/Projects/c-test/build/linux-debug
+CMAKE_BINARY_DIR = /home/designer/Documents/workspace/code/c-test/build/linux-debug
 
 # Include any dependencies generated for this target.
 include CMakeFiles/c-test.dir/depend.make
@@ -70,46 +70,46 @@ include CMakeFiles/c-test.dir/progress.make
 include CMakeFiles/c-test.dir/flags.make
 
 CMakeFiles/c-test.dir/main.c.o: CMakeFiles/c-test.dir/flags.make
-CMakeFiles/c-test.dir/main.c.o: /home/moe/Projects/c-test/main.c
+CMakeFiles/c-test.dir/main.c.o: /home/designer/Documents/workspace/code/c-test/main.c
 CMakeFiles/c-test.dir/main.c.o: CMakeFiles/c-test.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/moe/Projects/c-test/build/linux-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/c-test.dir/main.c.o"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/c-test.dir/main.c.o -MF CMakeFiles/c-test.dir/main.c.o.d -o CMakeFiles/c-test.dir/main.c.o -c /home/moe/Projects/c-test/main.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/designer/Documents/workspace/code/c-test/build/linux-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/c-test.dir/main.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/c-test.dir/main.c.o -MF CMakeFiles/c-test.dir/main.c.o.d -o CMakeFiles/c-test.dir/main.c.o -c /home/designer/Documents/workspace/code/c-test/main.c
 
 CMakeFiles/c-test.dir/main.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/c-test.dir/main.c.i"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/moe/Projects/c-test/main.c > CMakeFiles/c-test.dir/main.c.i
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/designer/Documents/workspace/code/c-test/main.c > CMakeFiles/c-test.dir/main.c.i
 
 CMakeFiles/c-test.dir/main.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/c-test.dir/main.c.s"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/moe/Projects/c-test/main.c -o CMakeFiles/c-test.dir/main.c.s
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/designer/Documents/workspace/code/c-test/main.c -o CMakeFiles/c-test.dir/main.c.s
 
 CMakeFiles/c-test.dir/alluse.c.o: CMakeFiles/c-test.dir/flags.make
-CMakeFiles/c-test.dir/alluse.c.o: /home/moe/Projects/c-test/alluse.c
+CMakeFiles/c-test.dir/alluse.c.o: /home/designer/Documents/workspace/code/c-test/alluse.c
 CMakeFiles/c-test.dir/alluse.c.o: CMakeFiles/c-test.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/moe/Projects/c-test/build/linux-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/c-test.dir/alluse.c.o"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/c-test.dir/alluse.c.o -MF CMakeFiles/c-test.dir/alluse.c.o.d -o CMakeFiles/c-test.dir/alluse.c.o -c /home/moe/Projects/c-test/alluse.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/designer/Documents/workspace/code/c-test/build/linux-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/c-test.dir/alluse.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/c-test.dir/alluse.c.o -MF CMakeFiles/c-test.dir/alluse.c.o.d -o CMakeFiles/c-test.dir/alluse.c.o -c /home/designer/Documents/workspace/code/c-test/alluse.c
 
 CMakeFiles/c-test.dir/alluse.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/c-test.dir/alluse.c.i"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/moe/Projects/c-test/alluse.c > CMakeFiles/c-test.dir/alluse.c.i
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/designer/Documents/workspace/code/c-test/alluse.c > CMakeFiles/c-test.dir/alluse.c.i
 
 CMakeFiles/c-test.dir/alluse.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/c-test.dir/alluse.c.s"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/moe/Projects/c-test/alluse.c -o CMakeFiles/c-test.dir/alluse.c.s
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/designer/Documents/workspace/code/c-test/alluse.c -o CMakeFiles/c-test.dir/alluse.c.s
 
 CMakeFiles/c-test.dir/add.c.o: CMakeFiles/c-test.dir/flags.make
-CMakeFiles/c-test.dir/add.c.o: /home/moe/Projects/c-test/add.c
+CMakeFiles/c-test.dir/add.c.o: /home/designer/Documents/workspace/code/c-test/add.c
 CMakeFiles/c-test.dir/add.c.o: CMakeFiles/c-test.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/moe/Projects/c-test/build/linux-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building C object CMakeFiles/c-test.dir/add.c.o"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/c-test.dir/add.c.o -MF CMakeFiles/c-test.dir/add.c.o.d -o CMakeFiles/c-test.dir/add.c.o -c /home/moe/Projects/c-test/add.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/designer/Documents/workspace/code/c-test/build/linux-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building C object CMakeFiles/c-test.dir/add.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/c-test.dir/add.c.o -MF CMakeFiles/c-test.dir/add.c.o.d -o CMakeFiles/c-test.dir/add.c.o -c /home/designer/Documents/workspace/code/c-test/add.c
 
 CMakeFiles/c-test.dir/add.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/c-test.dir/add.c.i"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/moe/Projects/c-test/add.c > CMakeFiles/c-test.dir/add.c.i
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/designer/Documents/workspace/code/c-test/add.c > CMakeFiles/c-test.dir/add.c.i
 
 CMakeFiles/c-test.dir/add.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/c-test.dir/add.c.s"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/moe/Projects/c-test/add.c -o CMakeFiles/c-test.dir/add.c.s
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/designer/Documents/workspace/code/c-test/add.c -o CMakeFiles/c-test.dir/add.c.s
 
 # Object files for target c-test
 c__test_OBJECTS = \
@@ -125,7 +125,7 @@ c-test: CMakeFiles/c-test.dir/alluse.c.o
 c-test: CMakeFiles/c-test.dir/add.c.o
 c-test: CMakeFiles/c-test.dir/build.make
 c-test: CMakeFiles/c-test.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/home/moe/Projects/c-test/build/linux-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Linking C executable c-test"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/home/designer/Documents/workspace/code/c-test/build/linux-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Linking C executable c-test"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/c-test.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -137,6 +137,6 @@ CMakeFiles/c-test.dir/clean:
 .PHONY : CMakeFiles/c-test.dir/clean
 
 CMakeFiles/c-test.dir/depend:
-	cd /home/moe/Projects/c-test/build/linux-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/moe/Projects/c-test /home/moe/Projects/c-test /home/moe/Projects/c-test/build/linux-debug /home/moe/Projects/c-test/build/linux-debug /home/moe/Projects/c-test/build/linux-debug/CMakeFiles/c-test.dir/DependInfo.cmake "--color=$(COLOR)"
+	cd /home/designer/Documents/workspace/code/c-test/build/linux-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/designer/Documents/workspace/code/c-test /home/designer/Documents/workspace/code/c-test /home/designer/Documents/workspace/code/c-test/build/linux-debug /home/designer/Documents/workspace/code/c-test/build/linux-debug /home/designer/Documents/workspace/code/c-test/build/linux-debug/CMakeFiles/c-test.dir/DependInfo.cmake "--color=$(COLOR)"
 .PHONY : CMakeFiles/c-test.dir/depend
 
