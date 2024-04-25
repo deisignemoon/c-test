@@ -1,0 +1,20 @@
+[
+{
+  "directory": "/home/moe/Projects/c-test/build/linux-debug",
+  "command": "/usr/bin/cc   -g -o CMakeFiles/c-test.dir/main.c.o -c /home/moe/Projects/c-test/main.c",
+  "file": "/home/moe/Projects/c-test/main.c",
+  "output": "CMakeFiles/c-test.dir/main.c.o"
+},
+{
+  "directory": "/home/moe/Projects/c-test/build/linux-debug",
+  "command": "/usr/bin/cc   -g -o CMakeFiles/c-test.dir/alluse.c.o -c /home/moe/Projects/c-test/alluse.c",
+  "file": "/home/moe/Projects/c-test/alluse.c",
+  "output": "CMakeFiles/c-test.dir/alluse.c.o"
+},
+{
+  "directory": "/home/moe/Projects/c-test/build/linux-debug",
+  "command": "/usr/bin/cc   -g -o CMakeFiles/c-test.dir/add.c.o -c /home/moe/Projects/c-test/add.c",
+  "file": "/home/moe/Projects/c-test/add.c",
+  "output": "CMakeFiles/c-test.dir/add.c.o"
+}
+]

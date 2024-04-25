@@ -1,0 +1,3 @@
+/home/moe/Projects/c-test/build/linux-debug/CMakeFiles/c-test.dir
+/home/moe/Projects/c-test/build/linux-debug/CMakeFiles/edit_cache.dir
+/home/moe/Projects/c-test/build/linux-debug/CMakeFiles/rebuild_cache.dir

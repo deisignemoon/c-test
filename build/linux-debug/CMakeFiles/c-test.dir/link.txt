@@ -1,0 +1,1 @@
+/usr/bin/cc -g "CMakeFiles/c-test.dir/main.c.o" "CMakeFiles/c-test.dir/alluse.c.o" "CMakeFiles/c-test.dir/add.c.o" -o c-test  -lm
